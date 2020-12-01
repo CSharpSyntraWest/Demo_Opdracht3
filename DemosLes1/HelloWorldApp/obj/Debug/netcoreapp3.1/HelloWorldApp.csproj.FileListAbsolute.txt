@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.exe
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.dll
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\bin\Debug\netcoreapp3.1\HelloWorldApp.pdb
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.dll
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.pdb
+C:\Users\hcopp\source\repos\DemosLes1\HelloWorldApp\obj\Debug\netcoreapp3.1\HelloWorldApp.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\hond\hond\bin\Debug\netcoreapp3.1\hond.exe
+C:\Users\hcopp\source\repos\hond\hond\bin\Debug\netcoreapp3.1\hond.deps.json
+C:\Users\hcopp\source\repos\hond\hond\bin\Debug\netcoreapp3.1\hond.runtimeconfig.json
+C:\Users\hcopp\source\repos\hond\hond\bin\Debug\netcoreapp3.1\hond.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\hond\hond\bin\Debug\netcoreapp3.1\hond.dll
+C:\Users\hcopp\source\repos\hond\hond\bin\Debug\netcoreapp3.1\hond.pdb
+C:\Users\hcopp\source\repos\hond\hond\obj\Debug\netcoreapp3.1\hond.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\hond\hond\obj\Debug\netcoreapp3.1\hond.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\hond\hond\obj\Debug\netcoreapp3.1\hond.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\hond\hond\obj\Debug\netcoreapp3.1\hond.dll
+C:\Users\hcopp\source\repos\hond\hond\obj\Debug\netcoreapp3.1\hond.pdb
+C:\Users\hcopp\source\repos\hond\hond\obj\Debug\netcoreapp3.1\hond.genruntimeconfig.cache
+C:\Users\hcopp\source\repos\hond\hond\obj\Debug\netcoreapp3.1\hond.csprojAssemblyReference.cache

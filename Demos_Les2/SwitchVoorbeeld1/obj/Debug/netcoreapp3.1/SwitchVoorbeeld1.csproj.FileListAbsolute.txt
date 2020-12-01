@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\bin\Debug\netcoreapp3.1\SwitchVoorbeeld1.exe
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\bin\Debug\netcoreapp3.1\SwitchVoorbeeld1.deps.json
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\bin\Debug\netcoreapp3.1\SwitchVoorbeeld1.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\bin\Debug\netcoreapp3.1\SwitchVoorbeeld1.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\bin\Debug\netcoreapp3.1\SwitchVoorbeeld1.dll
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\bin\Debug\netcoreapp3.1\SwitchVoorbeeld1.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\obj\Debug\netcoreapp3.1\SwitchVoorbeeld1.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\obj\Debug\netcoreapp3.1\SwitchVoorbeeld1.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\obj\Debug\netcoreapp3.1\SwitchVoorbeeld1.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\obj\Debug\netcoreapp3.1\SwitchVoorbeeld1.dll
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\obj\Debug\netcoreapp3.1\SwitchVoorbeeld1.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\SwitchVoorbeeld1\obj\Debug\netcoreapp3.1\SwitchVoorbeeld1.genruntimeconfig.cache

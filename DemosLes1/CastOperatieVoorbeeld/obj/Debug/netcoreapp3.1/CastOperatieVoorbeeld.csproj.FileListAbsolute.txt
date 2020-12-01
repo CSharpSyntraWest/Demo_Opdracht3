@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\bin\Debug\netcoreapp3.1\CastOperatieVoorbeeld.exe
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\bin\Debug\netcoreapp3.1\CastOperatieVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\bin\Debug\netcoreapp3.1\CastOperatieVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\bin\Debug\netcoreapp3.1\CastOperatieVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\bin\Debug\netcoreapp3.1\CastOperatieVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\bin\Debug\netcoreapp3.1\CastOperatieVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\obj\Debug\netcoreapp3.1\CastOperatieVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\obj\Debug\netcoreapp3.1\CastOperatieVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\obj\Debug\netcoreapp3.1\CastOperatieVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\obj\Debug\netcoreapp3.1\CastOperatieVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\obj\Debug\netcoreapp3.1\CastOperatieVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\CastOperatieVoorbeeld\obj\Debug\netcoreapp3.1\CastOperatieVoorbeeld.genruntimeconfig.cache

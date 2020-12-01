@@ -1,0 +1,8 @@
+C:\Users\hcopp\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.deps.json
+C:\Users\hcopp\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.dll
+C:\Users\hcopp\source\repos\UnitTestDemo\UnitTestDemo\bin\Debug\netcoreapp3.1\UnitTestDemo.pdb
+C:\Users\hcopp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.dll
+C:\Users\hcopp\source\repos\UnitTestDemo\UnitTestDemo\obj\Debug\netcoreapp3.1\UnitTestDemo.pdb

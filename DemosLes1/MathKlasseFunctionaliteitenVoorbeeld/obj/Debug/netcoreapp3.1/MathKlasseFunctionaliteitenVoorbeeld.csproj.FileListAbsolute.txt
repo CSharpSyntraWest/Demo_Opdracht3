@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\bin\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.exe
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\bin\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\bin\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\bin\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\bin\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\bin\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\obj\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\obj\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\obj\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\obj\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\obj\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\obj\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.genruntimeconfig.cache
+C:\Users\hcopp\source\repos\DemosLes1\MathKlasseFunctionaliteitenVoorbeeld\obj\Debug\netcoreapp3.1\MathKlasseFunctionaliteitenVoorbeeld.csprojAssemblyReference.cache

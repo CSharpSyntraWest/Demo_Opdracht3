@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\bin\Debug\netcoreapp3.1\MeerdereMethodParameters.exe
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\bin\Debug\netcoreapp3.1\MeerdereMethodParameters.deps.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\bin\Debug\netcoreapp3.1\MeerdereMethodParameters.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\bin\Debug\netcoreapp3.1\MeerdereMethodParameters.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\bin\Debug\netcoreapp3.1\MeerdereMethodParameters.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\bin\Debug\netcoreapp3.1\MeerdereMethodParameters.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\obj\Debug\netcoreapp3.1\MeerdereMethodParameters.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\obj\Debug\netcoreapp3.1\MeerdereMethodParameters.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\obj\Debug\netcoreapp3.1\MeerdereMethodParameters.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\obj\Debug\netcoreapp3.1\MeerdereMethodParameters.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\obj\Debug\netcoreapp3.1\MeerdereMethodParameters.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\obj\Debug\netcoreapp3.1\MeerdereMethodParameters.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\MeerdereMethodParameters\obj\Debug\netcoreapp3.1\MeerdereMethodParameters.genruntimeconfig.cache

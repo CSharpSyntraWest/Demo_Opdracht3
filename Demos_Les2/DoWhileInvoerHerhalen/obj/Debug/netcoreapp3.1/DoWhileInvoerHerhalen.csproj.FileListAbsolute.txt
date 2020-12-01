@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\bin\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.exe
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\bin\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.deps.json
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\bin\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\bin\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\bin\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.dll
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\bin\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\obj\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\obj\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\obj\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\obj\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.dll
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\obj\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\DoWhileInvoerHerhalen\obj\Debug\netcoreapp3.1\DoWhileInvoerHerhalen.genruntimeconfig.cache

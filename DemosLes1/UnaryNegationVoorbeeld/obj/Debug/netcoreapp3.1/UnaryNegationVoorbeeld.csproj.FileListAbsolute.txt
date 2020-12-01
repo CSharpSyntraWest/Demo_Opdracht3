@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\bin\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.exe
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\bin\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\bin\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\bin\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\bin\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\bin\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\obj\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\obj\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\obj\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\obj\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\obj\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\obj\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.genruntimeconfig.cache
+C:\Users\hcopp\source\repos\DemosLes1\UnaryNegationVoorbeeld\obj\Debug\netcoreapp3.1\UnaryNegationVoorbeeld.csprojAssemblyReference.cache

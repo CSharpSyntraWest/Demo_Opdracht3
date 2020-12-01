@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\bin\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.exe
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\bin\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.deps.json
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\bin\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\bin\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\bin\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.dll
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\bin\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.pdb
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\obj\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\obj\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\obj\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\obj\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\obj\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.dll
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\obj\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.pdb
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Oefening_AbstracteKlasseDier\obj\Debug\netcoreapp3.1\Oefening_AbstracteKlasseDier.genruntimeconfig.cache

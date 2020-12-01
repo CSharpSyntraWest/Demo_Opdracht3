@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\bin\Debug\netcoreapp3.1\Demo_StaticMember.exe
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\bin\Debug\netcoreapp3.1\Demo_StaticMember.deps.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\bin\Debug\netcoreapp3.1\Demo_StaticMember.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\bin\Debug\netcoreapp3.1\Demo_StaticMember.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\bin\Debug\netcoreapp3.1\Demo_StaticMember.dll
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\bin\Debug\netcoreapp3.1\Demo_StaticMember.pdb
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\obj\Debug\netcoreapp3.1\Demo_StaticMember.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\obj\Debug\netcoreapp3.1\Demo_StaticMember.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\obj\Debug\netcoreapp3.1\Demo_StaticMember.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\obj\Debug\netcoreapp3.1\Demo_StaticMember.dll
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\obj\Debug\netcoreapp3.1\Demo_StaticMember.pdb
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_StaticMember\obj\Debug\netcoreapp3.1\Demo_StaticMember.genruntimeconfig.cache

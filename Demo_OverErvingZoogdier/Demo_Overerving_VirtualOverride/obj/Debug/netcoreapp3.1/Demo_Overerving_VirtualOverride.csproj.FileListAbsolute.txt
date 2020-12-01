@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\bin\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.exe
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\bin\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.deps.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\bin\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\bin\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\bin\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.dll
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\bin\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.pdb
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\obj\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\obj\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\obj\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\obj\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\obj\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.dll
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\obj\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.pdb
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Overerving_VirtualOverride\obj\Debug\netcoreapp3.1\Demo_Overerving_VirtualOverride.genruntimeconfig.cache

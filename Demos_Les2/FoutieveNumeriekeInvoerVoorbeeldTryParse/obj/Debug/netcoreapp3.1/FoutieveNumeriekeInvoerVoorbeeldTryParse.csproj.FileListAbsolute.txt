@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\bin\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.exe
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\bin\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.deps.json
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\bin\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\bin\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\bin\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.dll
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\bin\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\obj\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\obj\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\obj\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\obj\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\obj\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.dll
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\obj\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\FoutieveNumeriekeInvoerVoorbeeldTryParse\obj\Debug\netcoreapp3.1\FoutieveNumeriekeInvoerVoorbeeldTryParse.genruntimeconfig.cache

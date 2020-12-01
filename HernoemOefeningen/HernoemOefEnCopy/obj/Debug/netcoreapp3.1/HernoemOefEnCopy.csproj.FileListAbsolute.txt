@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\bin\Debug\netcoreapp3.1\HernoemOefEnCopy.exe
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\bin\Debug\netcoreapp3.1\HernoemOefEnCopy.deps.json
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\bin\Debug\netcoreapp3.1\HernoemOefEnCopy.runtimeconfig.json
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\bin\Debug\netcoreapp3.1\HernoemOefEnCopy.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\bin\Debug\netcoreapp3.1\HernoemOefEnCopy.dll
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\bin\Debug\netcoreapp3.1\HernoemOefEnCopy.pdb
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\obj\Debug\netcoreapp3.1\HernoemOefEnCopy.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\obj\Debug\netcoreapp3.1\HernoemOefEnCopy.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\obj\Debug\netcoreapp3.1\HernoemOefEnCopy.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\obj\Debug\netcoreapp3.1\HernoemOefEnCopy.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\obj\Debug\netcoreapp3.1\HernoemOefEnCopy.dll
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\obj\Debug\netcoreapp3.1\HernoemOefEnCopy.pdb
+C:\Users\hcopp\source\repos\HernoemOefeningen\HernoemOefEnCopy\obj\Debug\netcoreapp3.1\HernoemOefEnCopy.genruntimeconfig.cache

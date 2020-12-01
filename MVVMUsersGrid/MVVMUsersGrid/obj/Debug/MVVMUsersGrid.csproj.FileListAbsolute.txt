@@ -1,0 +1,16 @@
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MVVMUsersGrid.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MainWindow.g.cs
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\App.g.cs
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MVVMUsersGrid_MarkupCompile.cache
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MVVMUsersGrid_MarkupCompile.lref
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\bin\Debug\MVVMUsersGrid.exe.config
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\bin\Debug\MVVMUsersGrid.exe
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\bin\Debug\MVVMUsersGrid.pdb
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MainWindow.baml
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MVVMUsersGrid.g.resources
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MVVMUsersGrid.Properties.Resources.resources
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MVVMUsersGrid.csproj.GenerateResource.cache
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MVVMUsersGrid.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MVVMUsersGrid.exe
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\MVVMUsersGrid.pdb
+C:\Users\hcopp\source\repos\MVVMUsersGrid\MVVMUsersGrid\obj\Debug\GeneratedInternalTypeHelper.g.cs

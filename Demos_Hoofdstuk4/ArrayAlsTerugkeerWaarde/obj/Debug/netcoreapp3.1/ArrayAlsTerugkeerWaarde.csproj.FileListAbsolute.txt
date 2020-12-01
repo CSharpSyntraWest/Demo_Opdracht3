@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\bin\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.exe
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\bin\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.deps.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\bin\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\bin\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\bin\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\bin\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\obj\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\obj\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\obj\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\obj\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\obj\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\ArrayAlsTerugkeerWaarde\obj\Debug\netcoreapp3.1\ArrayAlsTerugkeerWaarde.genruntimeconfig.cache

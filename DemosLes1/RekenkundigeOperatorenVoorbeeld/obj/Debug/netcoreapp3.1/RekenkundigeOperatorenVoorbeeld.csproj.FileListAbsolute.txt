@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\bin\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.exe
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\bin\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\bin\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\bin\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\bin\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\bin\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\obj\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\obj\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\obj\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\obj\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\obj\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\RekenkundigeOperatorenVoorbeeld\obj\Debug\netcoreapp3.1\RekenkundigeOperatorenVoorbeeld.genruntimeconfig.cache

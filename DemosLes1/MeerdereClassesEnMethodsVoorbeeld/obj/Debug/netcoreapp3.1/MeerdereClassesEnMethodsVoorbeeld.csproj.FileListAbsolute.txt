@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\bin\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.exe
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\bin\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\bin\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\bin\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\bin\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\bin\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\obj\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\obj\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\obj\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\obj\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\obj\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\MeerdereClassesEnMethodsVoorbeeld\obj\Debug\netcoreapp3.1\MeerdereClassesEnMethodsVoorbeeld.genruntimeconfig.cache

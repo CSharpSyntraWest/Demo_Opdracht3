@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\bin\Debug\netcoreapp3.1\Oefening1_Struct.exe
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\bin\Debug\netcoreapp3.1\Oefening1_Struct.deps.json
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\bin\Debug\netcoreapp3.1\Oefening1_Struct.runtimeconfig.json
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\bin\Debug\netcoreapp3.1\Oefening1_Struct.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\bin\Debug\netcoreapp3.1\Oefening1_Struct.dll
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\bin\Debug\netcoreapp3.1\Oefening1_Struct.pdb
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\obj\Debug\netcoreapp3.1\Oefening1_Struct.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\obj\Debug\netcoreapp3.1\Oefening1_Struct.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\obj\Debug\netcoreapp3.1\Oefening1_Struct.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\obj\Debug\netcoreapp3.1\Oefening1_Struct.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\obj\Debug\netcoreapp3.1\Oefening1_Struct.dll
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\obj\Debug\netcoreapp3.1\Oefening1_Struct.pdb
+C:\Users\hcopp\source\repos\Oefeningen_Struct\Oefening1_Struct\obj\Debug\netcoreapp3.1\Oefening1_Struct.genruntimeconfig.cache

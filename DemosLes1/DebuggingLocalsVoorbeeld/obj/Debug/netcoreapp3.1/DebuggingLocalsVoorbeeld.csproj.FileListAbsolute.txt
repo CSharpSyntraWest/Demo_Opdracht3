@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\bin\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.exe
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\bin\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\bin\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\bin\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\bin\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\bin\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\obj\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\obj\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\obj\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\obj\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\obj\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\DebuggingLocalsVoorbeeld\obj\Debug\netcoreapp3.1\DebuggingLocalsVoorbeeld.genruntimeconfig.cache

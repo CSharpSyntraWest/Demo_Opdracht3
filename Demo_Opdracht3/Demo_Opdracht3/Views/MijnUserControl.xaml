@@ -1,0 +1,65 @@
+﻿<UserControl x:Class="Demo_Opdracht3.Views.MijnUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Demo_Opdracht3.Views" 
+             xmlns:viewmodels="clr-namespace:Demo_Opdracht3.ViewModels"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <viewmodels:PersonenViewModel x:Key="PersonenViewModel"/>
+    </UserControl.Resources>
+    <Grid DataContext="{StaticResource PersonenViewModel}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Border Padding="3"
+            Margin="4"
+            CornerRadius="5"
+            Background="Gray">
+            <TextBlock Text="Details Persoon"
+                       Foreground="White"
+                       FontWeight="Bold"
+                       FontSize="12"/>
+        </Border>
+        <GroupBox Header="Details"
+                  MinHeight="240"
+                  Grid.Row="1">
+            <Grid Margin="4">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="6" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="15" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="15" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="15" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="15" />
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Grid.Column="0"  Content="Voornaam:" HorizontalAlignment="Left"/>
+                <TextBox Grid.Row="0"  Text="{Binding HuidigPersoon.Voornaam}" Grid.Column="2"/>
+                <Label Grid.Row="2" Content="Familienaam:" HorizontalAlignment="Left"/>
+                <TextBox Grid.Row="2"  Text="{Binding HuidigPersoon.Familienaam}" Grid.Column="2"/>
+                <Label Grid.Row="4" Content="Geboortedatum:" HorizontalAlignment="Left"/>
+                <DatePicker x:Name="dateGeboorteDatum" Grid.Row="4"  SelectedDate="{Binding HuidigPersoon.GeboorteDatum}" Grid.Column="2"/>
+                <Label Grid.Row="6" Content="Geboortedatum:" HorizontalAlignment="Left"/>
+                <TextBox Grid.Row="6" Text="{Binding ElementName=dateGeboorteDatum, Path=SelectedDate,UpdateSourceTrigger=LostFocus,Mode=TwoWay}" Grid.Column="2"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Lijst Personen" Grid.Row="2">
+            <DataGrid ItemsSource="{Binding PersonenCollectie}" SelectedItem="{Binding HuidigPersoon}" CanUserSortColumns="True">
+                
+            </DataGrid>
+        </GroupBox>
+    </Grid>
+</UserControl>

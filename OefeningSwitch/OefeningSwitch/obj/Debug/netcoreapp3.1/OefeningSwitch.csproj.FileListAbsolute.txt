@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\bin\Debug\netcoreapp3.1\OefeningSwitch.exe
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\bin\Debug\netcoreapp3.1\OefeningSwitch.deps.json
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\bin\Debug\netcoreapp3.1\OefeningSwitch.runtimeconfig.json
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\bin\Debug\netcoreapp3.1\OefeningSwitch.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\bin\Debug\netcoreapp3.1\OefeningSwitch.dll
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\bin\Debug\netcoreapp3.1\OefeningSwitch.pdb
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\obj\Debug\netcoreapp3.1\OefeningSwitch.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\obj\Debug\netcoreapp3.1\OefeningSwitch.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\obj\Debug\netcoreapp3.1\OefeningSwitch.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\obj\Debug\netcoreapp3.1\OefeningSwitch.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\obj\Debug\netcoreapp3.1\OefeningSwitch.dll
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\obj\Debug\netcoreapp3.1\OefeningSwitch.pdb
+C:\Users\hcopp\source\repos\OefeningSwitch\OefeningSwitch\obj\Debug\netcoreapp3.1\OefeningSwitch.genruntimeconfig.cache

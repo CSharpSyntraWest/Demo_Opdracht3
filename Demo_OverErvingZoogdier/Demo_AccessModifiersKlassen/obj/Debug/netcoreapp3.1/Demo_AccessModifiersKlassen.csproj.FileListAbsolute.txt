@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\bin\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.exe
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\bin\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.deps.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\bin\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\bin\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\bin\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.dll
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\bin\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.pdb
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\obj\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\obj\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\obj\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\obj\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\obj\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.dll
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\obj\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.pdb
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_AccessModifiersKlassen\obj\Debug\netcoreapp3.1\Demo_AccessModifiersKlassen.genruntimeconfig.cache

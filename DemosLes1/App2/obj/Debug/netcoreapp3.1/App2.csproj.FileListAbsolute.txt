@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\DemosLes1\App2\bin\Debug\netcoreapp3.1\App2.exe
+C:\Users\hcopp\source\repos\DemosLes1\App2\bin\Debug\netcoreapp3.1\App2.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\App2\bin\Debug\netcoreapp3.1\App2.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\App2\bin\Debug\netcoreapp3.1\App2.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\App2\bin\Debug\netcoreapp3.1\App2.dll
+C:\Users\hcopp\source\repos\DemosLes1\App2\bin\Debug\netcoreapp3.1\App2.pdb
+C:\Users\hcopp\source\repos\DemosLes1\App2\obj\Debug\netcoreapp3.1\App2.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\DemosLes1\App2\obj\Debug\netcoreapp3.1\App2.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\App2\obj\Debug\netcoreapp3.1\App2.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\App2\obj\Debug\netcoreapp3.1\App2.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\App2\obj\Debug\netcoreapp3.1\App2.dll
+C:\Users\hcopp\source\repos\DemosLes1\App2\obj\Debug\netcoreapp3.1\App2.pdb
+C:\Users\hcopp\source\repos\DemosLes1\App2\obj\Debug\netcoreapp3.1\App2.genruntimeconfig.cache

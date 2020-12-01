@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\bin\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.exe
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\bin\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\bin\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\bin\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\bin\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\bin\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\obj\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\obj\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\obj\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\obj\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\obj\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\DoubleVersusDecimalVoorbeeld\obj\Debug\netcoreapp3.1\DoubleVersusDecimalVoorbeeld.genruntimeconfig.cache

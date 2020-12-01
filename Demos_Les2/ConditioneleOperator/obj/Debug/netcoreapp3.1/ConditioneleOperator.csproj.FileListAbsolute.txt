@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\bin\Debug\netcoreapp3.1\ConditioneleOperator.exe
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\bin\Debug\netcoreapp3.1\ConditioneleOperator.deps.json
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\bin\Debug\netcoreapp3.1\ConditioneleOperator.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\bin\Debug\netcoreapp3.1\ConditioneleOperator.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\bin\Debug\netcoreapp3.1\ConditioneleOperator.dll
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\bin\Debug\netcoreapp3.1\ConditioneleOperator.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\obj\Debug\netcoreapp3.1\ConditioneleOperator.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\obj\Debug\netcoreapp3.1\ConditioneleOperator.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\obj\Debug\netcoreapp3.1\ConditioneleOperator.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\obj\Debug\netcoreapp3.1\ConditioneleOperator.dll
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\obj\Debug\netcoreapp3.1\ConditioneleOperator.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\ConditioneleOperator\obj\Debug\netcoreapp3.1\ConditioneleOperator.genruntimeconfig.cache

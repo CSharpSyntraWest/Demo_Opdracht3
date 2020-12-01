@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf-customPagingAndSorting", "Wpf-customPagingAndSorting.csproj", "{F286D630-0DB5-4771-9955-C137D4154504}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf-Filter-data", "..\Wpf-Filter-data\Wpf-Filter-data.csproj", "{C5779697-F057-48FE-81FD-1D31A66D990E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf-MVVM-FirstApplication", "..\Wpf-MVVM-FirstApplication\Wpf-MVVM-FirstApplication.csproj", "{E623C79C-D3A2-42EA-8309-2D3C6E00A626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wpf-HookingUpViews", "..\Wpf-HookingUpViews\Wpf-HookingUpViews.csproj", "{A4FA0CDD-8730-49F5-9412-C2848D278610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp-HookingUpViewModel", "..\WpfApp-HookingUpViewModel\WpfApp-HookingUpViewModel.csproj", "{A37D0FFA-661E-4A7C-9E4C-02BF3DDAC935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F286D630-0DB5-4771-9955-C137D4154504}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F286D630-0DB5-4771-9955-C137D4154504}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F286D630-0DB5-4771-9955-C137D4154504}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F286D630-0DB5-4771-9955-C137D4154504}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5779697-F057-48FE-81FD-1D31A66D990E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5779697-F057-48FE-81FD-1D31A66D990E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5779697-F057-48FE-81FD-1D31A66D990E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5779697-F057-48FE-81FD-1D31A66D990E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E623C79C-D3A2-42EA-8309-2D3C6E00A626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E623C79C-D3A2-42EA-8309-2D3C6E00A626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E623C79C-D3A2-42EA-8309-2D3C6E00A626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E623C79C-D3A2-42EA-8309-2D3C6E00A626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FA0CDD-8730-49F5-9412-C2848D278610}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FA0CDD-8730-49F5-9412-C2848D278610}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FA0CDD-8730-49F5-9412-C2848D278610}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FA0CDD-8730-49F5-9412-C2848D278610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A37D0FFA-661E-4A7C-9E4C-02BF3DDAC935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A37D0FFA-661E-4A7C-9E4C-02BF3DDAC935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A37D0FFA-661E-4A7C-9E4C-02BF3DDAC935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A37D0FFA-661E-4A7C-9E4C-02BF3DDAC935}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EED594E0-6569-4E25-9D15-C319AEF6B7B5}
+	EndGlobalSection
+EndGlobal

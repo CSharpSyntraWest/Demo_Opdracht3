@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\bin\Debug\netcoreapp3.1\Demo_Bankrekening.exe
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\bin\Debug\netcoreapp3.1\Demo_Bankrekening.deps.json
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\bin\Debug\netcoreapp3.1\Demo_Bankrekening.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\bin\Debug\netcoreapp3.1\Demo_Bankrekening.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\bin\Debug\netcoreapp3.1\Demo_Bankrekening.dll
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\bin\Debug\netcoreapp3.1\Demo_Bankrekening.pdb
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\obj\Debug\netcoreapp3.1\Demo_Bankrekening.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\obj\Debug\netcoreapp3.1\Demo_Bankrekening.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\obj\Debug\netcoreapp3.1\Demo_Bankrekening.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\obj\Debug\netcoreapp3.1\Demo_Bankrekening.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\obj\Debug\netcoreapp3.1\Demo_Bankrekening.dll
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\obj\Debug\netcoreapp3.1\Demo_Bankrekening.pdb
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo_Bankrekening\obj\Debug\netcoreapp3.1\Demo_Bankrekening.genruntimeconfig.cache

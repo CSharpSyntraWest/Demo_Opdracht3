@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\bin\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.exe
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\bin\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\bin\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\bin\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\bin\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.dll
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\bin\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\obj\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\obj\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\obj\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\obj\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\obj\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.dll
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\obj\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteIfStatementsVoorbeeld\obj\Debug\netcoreapp3.1\GenesteIfStatementsVoorbeeld.genruntimeconfig.cache

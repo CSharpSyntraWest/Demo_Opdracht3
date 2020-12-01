@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\bin\Debug\netcoreapp3.1\GenererenInVisualStudio.exe
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\bin\Debug\netcoreapp3.1\GenererenInVisualStudio.deps.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\bin\Debug\netcoreapp3.1\GenererenInVisualStudio.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\bin\Debug\netcoreapp3.1\GenererenInVisualStudio.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\bin\Debug\netcoreapp3.1\GenererenInVisualStudio.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\bin\Debug\netcoreapp3.1\GenererenInVisualStudio.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\obj\Debug\netcoreapp3.1\GenererenInVisualStudio.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\obj\Debug\netcoreapp3.1\GenererenInVisualStudio.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\obj\Debug\netcoreapp3.1\GenererenInVisualStudio.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\obj\Debug\netcoreapp3.1\GenererenInVisualStudio.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\obj\Debug\netcoreapp3.1\GenererenInVisualStudio.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\GenererenInVisualStudio\obj\Debug\netcoreapp3.1\GenererenInVisualStudio.genruntimeconfig.cache

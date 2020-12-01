@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\bin\Debug\netcoreapp3.1\WhileInvoerHerhalen.exe
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\bin\Debug\netcoreapp3.1\WhileInvoerHerhalen.deps.json
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\bin\Debug\netcoreapp3.1\WhileInvoerHerhalen.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\bin\Debug\netcoreapp3.1\WhileInvoerHerhalen.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\bin\Debug\netcoreapp3.1\WhileInvoerHerhalen.dll
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\bin\Debug\netcoreapp3.1\WhileInvoerHerhalen.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\obj\Debug\netcoreapp3.1\WhileInvoerHerhalen.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\obj\Debug\netcoreapp3.1\WhileInvoerHerhalen.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\obj\Debug\netcoreapp3.1\WhileInvoerHerhalen.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\obj\Debug\netcoreapp3.1\WhileInvoerHerhalen.dll
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\obj\Debug\netcoreapp3.1\WhileInvoerHerhalen.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\WhileInvoerHerhalen\obj\Debug\netcoreapp3.1\WhileInvoerHerhalen.genruntimeconfig.cache

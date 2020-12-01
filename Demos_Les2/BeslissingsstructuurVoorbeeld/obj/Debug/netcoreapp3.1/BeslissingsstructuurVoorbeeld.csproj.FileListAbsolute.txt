@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\bin\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.exe
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\bin\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\bin\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\bin\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\bin\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.dll
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\bin\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\obj\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\obj\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\obj\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\obj\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.dll
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\obj\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\BeslissingsstructuurVoorbeeld\obj\Debug\netcoreapp3.1\BeslissingsstructuurVoorbeeld.genruntimeconfig.cache

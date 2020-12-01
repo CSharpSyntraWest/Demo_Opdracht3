@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\bin\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.exe
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\bin\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.deps.json
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\bin\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\bin\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\bin\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.dll
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\bin\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\obj\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\obj\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\obj\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\obj\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.dll
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\obj\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\GenesteStructuurPriemgetal\obj\Debug\netcoreapp3.1\GenesteStructuurPriemgetal.genruntimeconfig.cache

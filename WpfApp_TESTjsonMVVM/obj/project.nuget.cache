@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Tv7+M7u0vs8P1mbLqvjrdustxtb6X8h3VnQJo3VTQB/vl9VyiNK8CSBMf7huRNeWyH9PfgoIarGT9E7nYodIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hcopp\\source\\repos\\WpfApp_TESTjsonMVVM\\WpfApp_TESTjsonMVVM.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hcopp\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\bin\Debug\netcoreapp3.1\OptioneleParameters.exe
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\bin\Debug\netcoreapp3.1\OptioneleParameters.deps.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\bin\Debug\netcoreapp3.1\OptioneleParameters.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\bin\Debug\netcoreapp3.1\OptioneleParameters.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\bin\Debug\netcoreapp3.1\OptioneleParameters.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\bin\Debug\netcoreapp3.1\OptioneleParameters.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\obj\Debug\netcoreapp3.1\OptioneleParameters.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\obj\Debug\netcoreapp3.1\OptioneleParameters.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\obj\Debug\netcoreapp3.1\OptioneleParameters.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\obj\Debug\netcoreapp3.1\OptioneleParameters.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\obj\Debug\netcoreapp3.1\OptioneleParameters.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\OptioneleParameters\obj\Debug\netcoreapp3.1\OptioneleParameters.genruntimeconfig.cache

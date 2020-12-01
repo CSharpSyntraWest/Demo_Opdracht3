@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\bin\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.exe
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\bin\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.deps.json
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\bin\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\bin\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\bin\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.dll
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\bin\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.pdb
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\obj\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\obj\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\obj\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\obj\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.dll
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\obj\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.pdb
+C:\Users\hcopp\source\repos\Demo_AbstracteMethodeEnKlasse\Demo_AbstracteMethodeEnKlasse\obj\Debug\netcoreapp3.1\Demo_AbstracteMethodeEnKlasse.genruntimeconfig.cache

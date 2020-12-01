@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\bin\Debug\netcoreapp3.1\AllesIneenMethode.exe
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\bin\Debug\netcoreapp3.1\AllesIneenMethode.deps.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\bin\Debug\netcoreapp3.1\AllesIneenMethode.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\bin\Debug\netcoreapp3.1\AllesIneenMethode.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\bin\Debug\netcoreapp3.1\AllesIneenMethode.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\bin\Debug\netcoreapp3.1\AllesIneenMethode.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\obj\Debug\netcoreapp3.1\AllesIneenMethode.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\obj\Debug\netcoreapp3.1\AllesIneenMethode.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\obj\Debug\netcoreapp3.1\AllesIneenMethode.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\obj\Debug\netcoreapp3.1\AllesIneenMethode.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\obj\Debug\netcoreapp3.1\AllesIneenMethode.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\obj\Debug\netcoreapp3.1\AllesIneenMethode.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\AllesIneenMethode\obj\Debug\netcoreapp3.1\AllesIneenMethode.genruntimeconfig.cache

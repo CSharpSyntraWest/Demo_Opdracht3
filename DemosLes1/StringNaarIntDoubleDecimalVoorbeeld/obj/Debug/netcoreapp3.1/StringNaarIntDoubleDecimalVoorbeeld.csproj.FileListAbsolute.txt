@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\bin\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.exe
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\bin\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\bin\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\bin\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\bin\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\bin\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\obj\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\obj\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\obj\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\obj\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\obj\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\StringNaarIntDoubleDecimalVoorbeeld\obj\Debug\netcoreapp3.1\StringNaarIntDoubleDecimalVoorbeeld.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\bin\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.exe
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\bin\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\bin\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\bin\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\bin\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\bin\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\obj\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\obj\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\obj\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\obj\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\obj\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\HalloWereldMetVariabeleVoorbeeld\obj\Debug\netcoreapp3.1\HalloWereldMetVariabeleVoorbeeld.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\bin\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.exe
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\bin\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\bin\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\bin\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\bin\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.dll
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\bin\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\obj\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\obj\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\obj\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\obj\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.dll
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\obj\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\IfElseIfElseVoorbeeld\obj\Debug\netcoreapp3.1\IfElseIfElseVoorbeeld.genruntimeconfig.cache

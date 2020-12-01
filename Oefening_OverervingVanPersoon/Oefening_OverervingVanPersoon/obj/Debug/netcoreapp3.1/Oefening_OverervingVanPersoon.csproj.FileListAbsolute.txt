@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\obj\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\obj\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\obj\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\bin\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.exe
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\bin\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.deps.json
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\bin\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.runtimeconfig.json
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\bin\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\bin\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.dll
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\bin\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.pdb
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\obj\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.dll
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\obj\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.pdb
+C:\Users\hcopp\source\repos\Oefening_OverervingVanPersoon\Oefening_OverervingVanPersoon\obj\Debug\netcoreapp3.1\Oefening_OverervingVanPersoon.genruntimeconfig.cache

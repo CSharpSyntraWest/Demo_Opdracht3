@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\bin\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.exe
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\bin\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.deps.json
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\bin\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\bin\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\bin\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\bin\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\obj\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\obj\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\obj\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\obj\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.dll
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\obj\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.pdb
+C:\Users\hcopp\source\repos\DemosLes1\StringConcatenatieOperatorVoorbeeld\obj\Debug\netcoreapp3.1\StringConcatenatieOperatorVoorbeeld.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\bin\Debug\netcoreapp3.1\Demo1_Hond.exe
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\bin\Debug\netcoreapp3.1\Demo1_Hond.deps.json
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\bin\Debug\netcoreapp3.1\Demo1_Hond.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\bin\Debug\netcoreapp3.1\Demo1_Hond.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\bin\Debug\netcoreapp3.1\Demo1_Hond.dll
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\bin\Debug\netcoreapp3.1\Demo1_Hond.pdb
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\obj\Debug\netcoreapp3.1\Demo1_Hond.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\obj\Debug\netcoreapp3.1\Demo1_Hond.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\obj\Debug\netcoreapp3.1\Demo1_Hond.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\obj\Debug\netcoreapp3.1\Demo1_Hond.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\obj\Debug\netcoreapp3.1\Demo1_Hond.dll
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\obj\Debug\netcoreapp3.1\Demo1_Hond.pdb
+C:\Users\hcopp\source\repos\Demo_ClassObject\Demo1_Hond\obj\Debug\netcoreapp3.1\Demo1_Hond.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\bin\Debug\netcoreapp3.1\NonVoidMethode2.exe
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\bin\Debug\netcoreapp3.1\NonVoidMethode2.deps.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\bin\Debug\netcoreapp3.1\NonVoidMethode2.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\bin\Debug\netcoreapp3.1\NonVoidMethode2.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\bin\Debug\netcoreapp3.1\NonVoidMethode2.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\bin\Debug\netcoreapp3.1\NonVoidMethode2.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\obj\Debug\netcoreapp3.1\NonVoidMethode2.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\obj\Debug\netcoreapp3.1\NonVoidMethode2.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\obj\Debug\netcoreapp3.1\NonVoidMethode2.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\obj\Debug\netcoreapp3.1\NonVoidMethode2.dll
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\obj\Debug\netcoreapp3.1\NonVoidMethode2.pdb
+C:\Users\hcopp\source\repos\Demos_Hoofdstuk4\NonVoidMethode2\obj\Debug\netcoreapp3.1\NonVoidMethode2.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\bin\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.exe
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\bin\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.deps.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\bin\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\bin\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\bin\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.dll
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\bin\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.pdb
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\obj\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\obj\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\obj\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\obj\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\obj\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.dll
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\obj\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.pdb
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_Polymorfisme_Kinderboerderij\obj\Debug\netcoreapp3.1\Demo_Polymorfisme_Kinderboerderij.genruntimeconfig.cache

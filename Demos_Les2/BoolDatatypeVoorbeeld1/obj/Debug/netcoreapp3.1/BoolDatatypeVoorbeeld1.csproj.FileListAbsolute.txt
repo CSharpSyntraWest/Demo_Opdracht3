@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\bin\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.exe
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\bin\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.deps.json
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\bin\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\bin\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\bin\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.dll
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\bin\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\obj\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\obj\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\obj\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\obj\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.dll
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\obj\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.pdb
+C:\Users\hcopp\source\repos\Demos_Les2\BoolDatatypeVoorbeeld1\obj\Debug\netcoreapp3.1\BoolDatatypeVoorbeeld1.genruntimeconfig.cache

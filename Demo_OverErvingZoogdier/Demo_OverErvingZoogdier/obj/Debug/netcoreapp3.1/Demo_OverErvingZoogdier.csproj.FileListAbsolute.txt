@@ -1,0 +1,12 @@
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\bin\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.exe
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\bin\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.deps.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\bin\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.runtimeconfig.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\bin\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\bin\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.dll
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\bin\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.pdb
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\obj\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\obj\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\obj\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\obj\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.dll
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\obj\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.pdb
+C:\Users\hcopp\source\repos\Demo_OverErvingZoogdier\Demo_OverErvingZoogdier\obj\Debug\netcoreapp3.1\Demo_OverErvingZoogdier.genruntimeconfig.cache
