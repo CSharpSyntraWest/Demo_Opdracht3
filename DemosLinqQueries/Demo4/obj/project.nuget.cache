@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yLJjMDFkmVtkAWGQBFImYOW/1rVBreKJWA3iPHLnwgSPgBPf3BkOAv0o+Zgpd+kY/Hpgwuq+Ik9yk/9rAh0xOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hcopp\\source\\repos\\DemosLinqQueries\\Demo4\\Demo4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hcopp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\hcopp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.10\\microsoft.netcore.app.host.win-x64.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

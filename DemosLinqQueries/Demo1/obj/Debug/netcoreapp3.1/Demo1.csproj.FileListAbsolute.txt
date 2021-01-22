@@ -1,0 +1,13 @@
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\obj\Debug\netcoreapp3.1\Demo1.csprojAssemblyReference.cache
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\obj\Debug\netcoreapp3.1\Demo1.AssemblyInfoInputs.cache
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\obj\Debug\netcoreapp3.1\Demo1.AssemblyInfo.cs
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\obj\Debug\netcoreapp3.1\Demo1.csproj.CoreCompileInputs.cache
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\bin\Debug\netcoreapp3.1\Demo1.exe
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\bin\Debug\netcoreapp3.1\Demo1.deps.json
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\bin\Debug\netcoreapp3.1\Demo1.runtimeconfig.json
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\bin\Debug\netcoreapp3.1\Demo1.runtimeconfig.dev.json
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\bin\Debug\netcoreapp3.1\Demo1.dll
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\bin\Debug\netcoreapp3.1\Demo1.pdb
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\obj\Debug\netcoreapp3.1\Demo1.dll
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\obj\Debug\netcoreapp3.1\Demo1.pdb
+C:\Users\hcopp\source\repos\DemosLinqQueries\Demo1\obj\Debug\netcoreapp3.1\Demo1.genruntimeconfig.cache
